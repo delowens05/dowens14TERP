@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Delancey Owens</title>
+</head>
+<body>
+  <h3>Sample Page for Deployment on Render</h3>
+  <ul>
+    <li><strong>Name:</strong> Delancey Owens</li>
+    <li><strong>GitHub Location: https://github.com/delowens05/dowens14TERP.git</strong></li>
+    <li><strong>Render Location:</strong></li>
+    <li><strong>Clearing Database Movies:</strong></li>
+    <li><strong>Inserting Movies:</strong></li>
+    <li><strong>List Movies:</strong></li>
+  </ul>
+  
+</body>
+</html>
